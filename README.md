@@ -1,6 +1,6 @@
 
 My Discord Server
-|https://discord.gg/ranls|
+| https://discord.gg/ranls |
 
 
 -------------------------
