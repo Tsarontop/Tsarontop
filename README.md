@@ -1,5 +1,7 @@
 
-https://discord.gg/ranls
+My Discord Server
+|https://discord.gg/ranls|
+
 
 -------------------------
 **🗃️ Current Projects:**
