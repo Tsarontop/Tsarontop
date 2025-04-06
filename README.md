@@ -6,7 +6,7 @@ My Discord Server
 -------------------------
 **🗃️ Current Projects:**
 
-- FairplayX Anti cheat
+- Ranls
 -
 -------------------------
 **💻 Tech Stack:**
