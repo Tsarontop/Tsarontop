@@ -1,14 +1,11 @@
 
 My Discord Server
-| https://discord.gg/ranls |
+| https://discord.gg/ |
 
 
 -------------------------
 **🗃️ Current Projects:**
 
-- Ranls - Realms Are No Longer Safe
-- Ranls-UI - 2025 -
-- Anti ARAS Discord bot
 - FairplayX Anti cheat
 -
 -------------------------
